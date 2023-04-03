@@ -1,1 +1,3 @@
-console.log('hello world')
+var first = 'Ashraful';
+var last = 'Alam'
+console.log(first + ' ' + last)
